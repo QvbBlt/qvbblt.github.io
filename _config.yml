@@ -7,7 +7,7 @@
 title: Hoo.C.lon's blog
 subtitle: 一个安静写作的地方
 description: 记录生活，感悟心声。
-author: Hoochanlon
+author: qvbblt
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language:  zh-Hans
 date_format: '%Y-%m-%d'
@@ -226,8 +226,8 @@ font:
   #LinkLabel: Link
 
 social:
-  GitHub: https://github.com/hoochanlon
-  Wechat: /assets/qr/wx.png
+  GitHub: https://github.com/QvbBlt
+# Wechat: /assets/qr/wx.png
 
 # Social Links Icons
 # Icon Mapping:
@@ -239,7 +239,7 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Wechat: wechat
+  # Wechat: wechat
 
 
 # Sidebar Avatar
@@ -450,9 +450,9 @@ changyan:
 #   enable: true
 #   clientID: 429e75672380074b88a5
 #   clientSecret: 9568303c3a0d93762002a14f5b522891e8a89ac0
-#   repo: hoochanlon.github.io # colingpt.github.io
-#   owner: hoochanlon # colingpt
-#   admin: hoochanlon # colingpt
+#   repo: qvbblt.github.io # colingpt.github.io
+#   owner: qvbblt # colingpt
+#   admin: qvbblt # colingpt
 
 # Baidu Share
 # Available value:
