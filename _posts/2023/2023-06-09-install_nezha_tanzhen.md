@@ -1,8 +1,8 @@
 ---
 title: "手把手教你安装哪吒探针"
-date: 2023-06-08 
+date: 2023-06-08 20:11:26 +0800
 author: other
-category: [2023]
+category: [2023.]
 tags: [vps]
 permalink: /:year/:month-:day/01
 ---
